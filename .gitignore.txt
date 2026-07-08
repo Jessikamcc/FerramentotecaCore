@@ -1,0 +1,21 @@
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs de erro da JVM
+hs_err_pid*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
